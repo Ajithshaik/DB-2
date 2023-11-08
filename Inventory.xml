@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<InventoryItems>
+  <Inventory>
+    <InventoryID>1</InventoryID>
+    <PodID>1</PodID>
+    <QuantityAvailable>50</QuantityAvailable>
+  </Inventory>
+  <Inventory>
+    <InventoryID>2</InventoryID>
+    <PodID>2</PodID>
+    <QuantityAvailable>75</QuantityAvailable>
+  </Inventory>
+  <Inventory>
+    <InventoryID>3</InventoryID>
+    <PodID>3</PodID>
+    <QuantityAvailable>200</QuantityAvailable>
+  </Inventory>
+</InventoryItems>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<HabitatPods>
+  <Pod>
+    <PodID>1</PodID>
+    <Species>Sparrow</Species>
+    <MaterialID>101</MaterialID>
+  </Pod>
+  <Pod>
+    <PodID>2</PodID>
+    <Species>Bat</Species>
+    <MaterialID>102</MaterialID>
+  </Pod>
+  <Pod>
+    <PodID>3</PodID>
+    <Species>Bee</Species>
+    <MaterialID>103</MaterialID>
+  </Pod>
+</HabitatPods>

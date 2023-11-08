@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Customers>
+  <Customer>
+    <CustomerID>1</CustomerID>
+    <Name>Green Parks NYC</Name>
+    <ContactInfo>info@greenparksnyc.org</ContactInfo>
+  </Customer>
+  <Customer>
+    <CustomerID>2</CustomerID>
+    <Name>Urban Wildlife Trust</Name>
+    <ContactInfo>contact@urbanwildlifetrust.org</ContactInfo>
+  </Customer>
+  <Customer>
+    <CustomerID>3</CustomerID>
+    <Name>City Zoo</Name>
+    <ContactInfo>support@cityzoo.gov</ContactInfo>
+  </Customer>
+</Customers>
